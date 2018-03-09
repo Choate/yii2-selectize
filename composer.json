@@ -1,0 +1,22 @@
+{
+    "name": "choate/yii2-selectize",
+    "type": "library",
+    "description": "Yii2 Selectize",
+    "require": {
+        "yiisoft/yii2-bootstrap": "^2.0",
+        "bower-asset/selectize": "^0.12"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Choate",
+            "email": "choate.yao@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "choate\\yii2\\selectize\\": "src"
+        }
+    }
+}
